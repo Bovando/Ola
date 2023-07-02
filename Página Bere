@@ -1,0 +1,117 @@
+<html>
+
+
+
+<head>
+
+
+
+<title>Pagina que te avisa cuando revivan a Bakugo</title>
+
+<script>
+
+  function prompter() {
+
+var reply = prompt("¿Qué le pasa a Lupita?", "")
+
+alert ( "Quiere bailar " + reply + "!")
+
+}
+
+</script>
+
+</head>
+
+<body background="https://bovando20.neocities.org/e096a00fb0a55cf0f8bc0ef69db0b59b.gif">
+
+<h1> <font face="Courier New">Pagina que te avisa cuando revivan a Bakugo </font></h1>
+
+<p><font face="Comic Sans MS,Arial,Verdana"><i><font color="rgb (102, 51, 204)">"La historia no ha llegado a su fin"</font></i></font></p>
+
+<table border="1">
+
+<tr>
+
+<td style="background-color: rgb(187, 143, 206);"> Nombre: </td>
+
+<td style="background-color: rgb(210, 180, 222);"> Bakugo Katsuki </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(210, 180, 222);"> Edad: </td>
+
+<td style="background-color: rgb(187, 143, 206);"> 16-17 años </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(187, 143, 206);"> Don: </td>
+
+<td style="background-color: rgb(210, 180, 222);"> Explosion </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(210, 180, 222);"> Nombre de Herore: </td>
+
+<td style="background-color: rgb(187, 143, 206);"> Dynamight </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(187, 143, 206);"> Cumpleaños: </td>
+
+<td style="background-color: rgb(210, 180, 222);"> 20 de abril </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(210, 180, 222);"> Comida favorita: </td>
+
+<td style="background-color: rgb(187, 143, 206);"> Comida picante </td>
+
+</tr>
+
+<tr>
+
+<td style="background-color: rgb(187, 143, 206);"> Estado: </td>
+
+<td style="background-color: rgb(210, 180, 222);"> Muerto(tratando de revivirlo) </td>
+
+</tr>
+
+</table>
+
+<p>
+
+  <a href="https://vm.tiktok.com/ZMYHEVE8N/">Bakugo peleanding</a>.
+
+</p>
+
+<p>
+
+  <a href="https://vm.tiktok.com/ZMYHo1bH3/">Bakugo muelto</a>.
+
+</p>
+
+<p>
+
+  <a href="https://vm.tiktok.com/ZMYHEWhud/">Y esa fué la noche mas linda del mundo</a>.
+
+</p>
+
+<button type="button" onclick="prompter()">picale aquí</button>
+
+<img src="https://bovando20.neocities.org/Bakugo%20cc.png">  
+
+<img src="https://bovando20.neocities.org/bakugo%20cc%202.png"> 
+
+</body>
+
+</html>
